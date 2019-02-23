@@ -78,8 +78,11 @@ Capacity is calculated in time units e.g. hours or quarter days. An example
 planning looks like this.
 
 > Weeks in sprint = 2
+>
 > Total working hours in a sprint = 2 weeks * 5 days * 9 hours = 90
+>
 > Size of Dev team = 5
+>
 > Total manhour in a sprint = 90 * 5 = 450
 
 There can be deduction in hours due to holidays, planned leave or training, etc.
@@ -88,7 +91,9 @@ More fine-grained role based hours can be helpful. Instead of total manhour, we
 calculate total manhour for a particular role
 
 > Number of programmer = 3 -> total programming hours = 90 * 3 = 270
+>
 > number of designer   = 1 -> 90
+>
 > number of tester     = 1 -> 90
 
 In the case where there is a cross trained individual i.e. programmer and
