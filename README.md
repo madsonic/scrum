@@ -131,13 +131,13 @@ The definitions stated should be easily verifiable. It is either passes or not,
 no gray area.
 
 Sample of check list for a task to be considered done.
-- PO acceptance
-- code checked in
-- code reviewed
-- unit, integration, performance tests pass
-- passes other non-functional requirements
-- no P0, P1 defects
-- updated documentation
+- [ ] PO acceptance
+- [ ] code checked in
+- [ ] code reviewed
+- [ ] unit, integration, performance tests pass
+- [ ] passes other non-functional requirements
+- [ ] no P0, P1 defects
+- [ ] updated documentation
 
 ### Sprint Review & Retrospective
 The focus of the review is the product. During the review, anyone interested in
@@ -191,8 +191,11 @@ The PBI typically includes a feature, size and value estimation
 #### User stories
 The feature part of PBI can be written as user stories which has 3 parts: **card**, **conversation**
 and **confirmation**. The card is a high level use case written in this format
+
 > As a user xxx
+>
 > I want to yyy
+>
 > so that zzz
 
 The card will not have all the nitty gritty details needed for implementation so
@@ -232,10 +235,10 @@ or not. It all depends on trial and error.
 
 ## Estimation techniques
 Big complex items use relative estimate
-- PBI. scoring system
+- PBI - use indices
 
 Small item use absolute estimate
-- sprint backlog items (tasks). hours, days, etc
+- sprint backlog items (tasks) - hours, days, etc
 
 ### Fibonacci numbers
 The nature of the sequence ensure that large items results in larger than normal
@@ -253,9 +256,15 @@ marketing, announcements, invitations, development halts
 
 # Glossary
 Product backlog: descending list of items sorted by ROI.
+
 Product backlog items: includes features, size estimates, and ROI
+
 Sprint backlog: list of tasks need to be done to complete PBI
+
 Sprint goals: number of PBIs to complete by end of a sprint
+
 Timebox: Upper limits for actions
+
 Definition of done: checklist to easily verify if task is done.
+
 Daily standup: daily meeting to update scrum team on, done, doing and blockers
