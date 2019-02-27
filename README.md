@@ -273,3 +273,13 @@ Timebox: Upper limits for actions
 Definition of done: checklist to easily verify if task is done.
 
 Daily standup: daily meeting to update scrum team on, done, doing and blockers
+
+# References
+[Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
+
+[Scrum
+Values](https://www.scrum.org/resources/blog/5-scrum-values-take-center-stage)
+
+[Scrum Overview](https://www.scrum.org/resources/what-is-scrum)
+
+[Good Agile](http://www.goodagile.com/csmresources/resources_accepted.html)
