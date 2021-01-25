@@ -64,7 +64,7 @@ achieve the sprint goal
 ### Sprint planning
 Each cycle begins with **sprint planning** for Devs to decide on the sprint
 goal. Planning is timeboxed at 2h x weeks in a sprint. Planning can involve the
-entire scrum team. The Dev will translate the PBIs into a sprint backlog which
+entire scrum team. The Dev will translate the product backlog items (PBIs) into a sprint backlog which
 is a list of actionable tasks. The Devs will also decide on the 'Definition of
 done' (DoD) in the first sprint planning. Although DoD can be changed later on,
 it is best to decide on something reasonable and stable early on to minimise
